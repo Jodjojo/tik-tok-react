@@ -1,0 +1,39 @@
+.microcard-section {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	position: relative;
+}
+
+.bold {
+	font-weight: 900;
+}
+.img-profile {
+	width: 45px;
+	height: 45px;
+	background-color: red;
+	border-radius: 25px;
+	margin-right: 15px;
+	object-fit: cover;
+}
+.micro-content {
+	line-height: 5px;
+}
+.next {
+	color: #fe5475;
+}
+@media only screen and (max-width: 850px) {
+	.micro-content,
+	.next {
+		display: none;
+	}
+	.img-profile {
+		width: 30px;
+		height: 30px;
+		background-color: red;
+		border-radius: 25px;
+
+		object-fit: cover;
+		margin: 10px 15px 10px 0;
+	}
+}

@@ -1,0 +1,92 @@
+.followers_banner {
+	min-width: 230px;
+	height: 700px;
+	padding: 10px;
+	margin-left: 150px;
+	position: fixed;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+::-webkit-scrollbar {
+	width: 7px;
+}
+::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px #f5f5f5;
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #f5f5f5;
+	border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: lightgrey;
+}
+
+.bold_content {
+	font-weight: 600;
+	color: #fe2c55;
+}
+.suggest_account {
+	color: #707278;
+}
+
+.followers_section {
+	display: flex;
+	flex-direction: row;
+	margin: 10px 0 5px 0px;
+	align-items: center;
+}
+.following {
+	width: 30px;
+	height: 29px;
+	background-image: url("https://i.imgur.com/Aq7L3jv.png");
+	background-size: 30px;
+	margin-right: 15px;
+}
+.home {
+	width: 30px;
+	height: 29px;
+	background-image: url("https://i.imgur.com/Q582Dp0.png");
+	background-size: 30px;
+	margin-right: 15px;
+}
+.live {
+	height: 29px;
+	background-size: 30px;
+	margin-right: 15px;
+}
+.line {
+	width: 400px;
+	height: 2px;
+	background-color: #f1f1f2;
+	border-radius: 5px;
+}
+
+@media only screen and (max-width: 850px) {
+	.followers_banner {
+		min-width: 20px;
+		height: 100%;
+		padding: 5px;
+		margin-left: 20px;
+		position: fixed;
+		overflow-y: hidden;
+		overflow-x: hidden;
+		border-right: 1px solid lightgrey;
+	}
+	.followers_section h4 {
+		display: none;
+	}
+	.suggest_account {
+		display: none;
+	}
+	.followers_accounts {
+		display: none;
+	}
+	.line {
+		width: 30px;
+		height: 2px;
+		background-color: #f1f1f2;
+		border-radius: 5px;
+	}
+}

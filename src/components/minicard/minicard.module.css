@@ -1,0 +1,14 @@
+.minicard {
+	color: #fe5475;
+	width: 300px;
+	margin-left: 250px;
+}
+.suggest_follow {
+	border: 1px solid #fe5475;
+	border-radius: 10px;
+	padding: inherit;
+	margin-left: 200px;
+}
+.suggest_follow h5 {
+	text-align: center;
+}

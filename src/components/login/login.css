@@ -1,0 +1,51 @@
+.login-content {
+	width: 85%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+
+	flex-direction: column;
+	text-align: center;
+	margin: auto;
+}
+.container h3 {
+	font-weight: bold;
+}
+.btn-social {
+	display: flex;
+	background-color: transparent;
+	border: 1px solid lightgrey;
+	border-radius: 2px;
+	margin-bottom: 5px;
+	padding: 8px 7px;
+	outline: none;
+	font-weight: 500;
+	cursor: pointer;
+	width: 100%;
+	font-size: 16px;
+}
+
+.btn__icon {
+	display: flex;
+	align-items: start;
+	justify-content: start;
+	width: 40px;
+	border-right: 1px solid lightgrey;
+}
+.btn__text {
+	margin: auto;
+}
+footer {
+	position: relative;
+	top: 120px;
+	background-color: #fafafa;
+	width: 100%;
+	height: 50px;
+}
+footer p {
+	margin-top: 15px;
+}
+footer a {
+	color: #fe2c55;
+	text-decoration: none;
+}

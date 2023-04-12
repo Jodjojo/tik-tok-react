@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3adb34b.css",
+    "main.js": "/static/js/main.6593b732.js",
+    "static/js/787.7a95d5fe.chunk.js": "/static/js/787.7a95d5fe.chunk.js",
+    "static/media/jus.jpg": "/static/media/jus.9d4f4a955fda1eb131f1.jpg",
+    "static/media/godison.jpg": "/static/media/godison.2c9865bbee9072c084ec.jpg",
+    "static/media/profile.jpg": "/static/media/profile.496b0984b0343354a66f.jpg",
+    "static/media/pese.jpg": "/static/media/pese.b4a5e534217239d3d812.jpg",
+    "static/media/goddy.jpg": "/static/media/goddy.9fefb8ee2cd73594ae05.jpg",
+    "static/media/tiktoklogo.png": "/static/media/tiktoklogo.8b3eef7897773a6bfe4e.png",
+    "static/media/instagram.svg": "/static/media/instagram.cc08c2f77bea627c9daf921d22203557.svg",
+    "static/media/twitter.svg": "/static/media/twitter.904a572f96b9d2c4127d640ffc935b47.svg",
+    "static/media/apple.svg": "/static/media/apple.d0656a5c7e3b7edf5605417cb89dc5c9.svg",
+    "static/media/facebook.svg": "/static/media/facebook.1f45a97b294e91dadfd896c2615c4b35.svg",
+    "static/media/menu-dots.svg": "/static/media/menu-dots.816208b0e119f005bc22e815d293439d.svg",
+    "static/media/letter.svg": "/static/media/letter.a00e81963b94f74f1d3313138ea5af53.svg",
+    "static/media/heart.svg": "/static/media/heart.971704296194b06fa931aa4d9efb962a.svg",
+    "static/media/search.svg": "/static/media/search.31bbb1c672c642db5107d6cd48eb5bdb.svg",
+    "static/media/upload.svg": "/static/media/upload.c786d27078b7f381b0facd38e78f6214.svg",
+    "static/media/videot.svg": "/static/media/videot.905469ae6315991b79b88749859c0555.svg",
+    "index.html": "/index.html",
+    "static/media/comment.svg": "/static/media/comment.f3bac195732867cca8954cbcd68efb3e.svg",
+    "static/media/user.svg": "/static/media/user.0b38cde12363ee5badae68bf23a97734.svg",
+    "static/media/google.svg": "/static/media/google.be26c4ffe177970b806878748cffb6ef.svg",
+    "static/media/share.svg": "/static/media/share.3345b5c7cae5814972d7476115eee7d1.svg",
+    "static/media/message.svg": "/static/media/message.4ccb368f9d28be1a7a79b2bd07f0876d.svg",
+    "main.d3adb34b.css.map": "/static/css/main.d3adb34b.css.map",
+    "main.6593b732.js.map": "/static/js/main.6593b732.js.map",
+    "787.7a95d5fe.chunk.js.map": "/static/js/787.7a95d5fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3adb34b.css",
+    "static/js/main.6593b732.js"
+  ]
+}
