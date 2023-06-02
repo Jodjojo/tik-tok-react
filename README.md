@@ -14,7 +14,7 @@ This is a web-app that is cloned to mirror what the tiktok application home inte
 
 ## **Installation**
 
-This web application does not require any isntallation as it is hosted on the internet and can be ran easily over the browser.
+This web application does not require any installation as it is hosted on the internet and can be ran easily over the browser.
 
 ## **Features**
 #### The major Features of this app: 
